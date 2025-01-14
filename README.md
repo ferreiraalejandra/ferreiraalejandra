@@ -7,6 +7,5 @@ I am an enthusiast for Agile development and a driven autodidact. I have profici
 
 
 - 💬 Ask me about web technologies
-- 📫 How to reach me: @aleja_ferre
 - 😄 she/her
 - Coming soon: aleferreira.me
